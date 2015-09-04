@@ -1,0 +1,20 @@
+{
+  "name": "Captains-Log",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zacharytamas/Captains-Log",
+  "authors": [
+    "Zachary Jones <zacharytamas@gmail.com>"
+  ],
+  "description": "An experiment in building an application for recording daily video logs using Electron and Polymer.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.1.2"
+  }
+}
