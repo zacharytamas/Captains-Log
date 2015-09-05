@@ -8,3 +8,4 @@ Here are some elements I'm thinking of generalizing for open sourcing:
 
 * `z-video-recorder` An element for recording audio and video from the user's webcam/microphone.
 * `z-file-saver` An element for saving a stream from `z-video-recorder` to disk. I plan to use Electron for the app, which can access the file system more directly than a browser. This will take some research.
+* `z-video-player` An element for playing back recorded video. Possibly extraneous. We'll see.
